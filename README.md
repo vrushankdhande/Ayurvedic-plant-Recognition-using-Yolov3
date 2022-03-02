@@ -12,3 +12,5 @@ When you upload the classes.txt. After uploading again open the file on your pc/
    3. Search Yolo in the find command. There you will find the (filter=) and put the value as per this formula [filter = (number of classes +5)*3]. There is one more chance you have to do in  [classes = (number of classes in classes.txt file)]. These two changes you have to for 3 in the .cfg file.
 6. The model will automatically save in the backup folder along with the graph of epochs. The model will save in .weights extension.
 7. If the darknet function is not running in collab. There is a code-named cmd, which will give pass access to this function.
+To download the model the drive link is given bellow:
+https://drive.google.com/drive/u/0/folders/1K3z05Eca0Yzba2BhklydU8s4BBySDon8 

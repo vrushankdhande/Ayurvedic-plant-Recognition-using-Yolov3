@@ -1,2 +1,2 @@
-# Ayurvedic-plant-Recognition-using-Yolov3
+# Ayurvedic-plant-Recognition-using-YoloV3
 we have write 

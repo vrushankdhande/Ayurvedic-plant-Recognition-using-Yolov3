@@ -1,0 +1,5 @@
+classes = 4
+train = /content/drive/MyDrive/yol/final1/train.txt
+valid = /content/drive/MyDrive/yol/final1/test.txt
+names = /content/drive/MyDrive/yol/final1/classes.names
+backup = backup

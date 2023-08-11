@@ -1,4 +1,4 @@
-# Ayurvedic-plant-Recognition-using-YoloV3
+# Ayurvedic-plant-Recognition-using-YoloV3-model
 This project is based on ayurvedic plants(medicinal purposes). As we know there are many plants are available in the surround and we don't know which plant has what specifications for use. So I have created a Machine Learning (image recognition) model which can able to detect and recognize the plant by the leaf image and give the information about the plant, which is present in the data. The model has trained with 280 images having 6000 epochs in the custom yoloV3 cfg file. The accuracy of the model is around 9.45334 for images predications.
 In the GITHUB you will be able to find the codes of data categorizing, predication and plant dataset, training code for yoloV3, and all required files. Image annotation software is also there in the GitHub and config (.cfg) file of yoloV3.
 There are some changes you should remember before training.
